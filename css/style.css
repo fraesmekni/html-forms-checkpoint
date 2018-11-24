@@ -1,0 +1,24 @@
+body{
+    background-color:darkslategrey;
+}
+.asslema{
+    padding: 60px ;
+    
+  margin: 200px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+height: 70%;
+width: 70%;
+background-color:burlywood ;
+}
+.help{
+    height: 60px;
+    width: 80px;
+}
+.frr{
+    color:black;
+}
+.bb{
+    border: 10px solid black;
+    color: black;
+}
